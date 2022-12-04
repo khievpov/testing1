@@ -7,9 +7,9 @@
     <title>testing01</title>
 </head>
 <body>
-    <?php
-      helllo
-    ?>
+  
+<h1>hello world</h1>
+<p>this is pagesite</p>
     
 </body>
 </html>
